@@ -50,7 +50,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="auto"  /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="55" height="auto" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="55" height="auto" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="55" height="auto" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="55" height="auto" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></td>
    </tr>
    <tr>
@@ -77,7 +77,7 @@
         <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Lighteros&show_icons=true&hide_border=true" /> 
         </td>
         <td> 
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lighteros&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lighteros&show_icons=true&hide_border=true&layout=compact&langs_count=12"/> 
         </td>
     </tr>
     <table>
