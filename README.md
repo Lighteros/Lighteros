@@ -5,7 +5,6 @@
 
 <br />
 
-<img align="right" width="400" src="https://ipfs.io/ipfs/QmNmfb5xM3YTue57StDG6iq6xdwtWMcxREd9cSbzaBSqNm" />
   <p>
   Experienced Web Developer adept in all stages of advanced web development with 8+ years experience building smart websites and 5+ years working with Blockchain 
   technologies. Quickly learn and master new technologies and working in both team and self-directed settings. Adept at contributing to a highly collaborative work 
