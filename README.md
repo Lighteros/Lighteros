@@ -71,17 +71,17 @@
 <br />
  💻 GitHub Stats
 
-<table width="100%">
-    <tr>
-        <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Lighteros&show_icons=true&hide_border=true" /> 
-        </td>
-        <td> 
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lighteros&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> 
-        </td>
-    </tr>
-    <table>
-    <div align="center"  width="100%">
-        <img src="https://github-profile-trophy.vercel.app/?username=Lighteros&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
-    </div>
-    <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lighteros&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Lightning's GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lighteros&theme=algolia" alt="Lighteros" />
+</p>
+
+---
+
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lighteros&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
